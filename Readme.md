@@ -1,6 +1,5 @@
 <h1 align="center">Automação Web ServerRest Front By: Carlos Eduardo Piva</h1>
-<h5 align="center">Repositório criado para envio de atividade respectivas a Refatoraç
-ap da Automação do ecommerce Server Rest.</h5>
+<h5 align="center">Repositório criado para envio de atividade respectivas a Refatoração da Automação do ecommerce Server Rest.</h5>
 
 <h3 align="center">Linguagem e Ferramentas:</h3>
 
@@ -10,7 +9,6 @@ ap da Automação do ecommerce Server Rest.</h5>
 ## 📑  Observação para avaliação
 
 ```sh
-- 'Commits diários não foram efetuados devido a alguns problemas de conexão, ( acabando no fim da sprint somente enviado código final ) alguns dos primeiros commit´s foram feitos em um outro repositório “tal qual parou de funcionar” 
 ``` 
 ## 📑  Pré-requisitos 
 

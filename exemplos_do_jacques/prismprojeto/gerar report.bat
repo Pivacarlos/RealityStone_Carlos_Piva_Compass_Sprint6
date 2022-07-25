@@ -1,1 +1,0 @@
-cucumber features --format html --out REPORT.html
