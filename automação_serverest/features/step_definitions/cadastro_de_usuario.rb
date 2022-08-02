@@ -8,6 +8,7 @@ Dado('que esteja com a tela de cadastro aberta') do
       @cadastros.email.set string2
       @cadastros.password.set string3
       find('button[type="submit"]').click
+      sleep 2
     end
 
     Então('a mensagem  é exibida {string}') do |string|
