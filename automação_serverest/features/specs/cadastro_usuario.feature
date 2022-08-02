@@ -20,7 +20,7 @@ Funcionalidade: Cadastro de usuário
         |Carlos           |carlosteste@gmail         |testes123@        |Email deve ser um email válido       |
         |Carlos           |carlosteste@gmail.com     |                  |Password não pode ficar em branco    |
         |Carlos           |carlosteste@gmail.com     |testes123@        |Já é cadastrado?Entrar               |
-        |rodrigofaro      |carlosteste@gmail.com     |testes123@        |Este email já está sendo usado       |
+        |Carlosteste      |carlosteste@gmail.com     |testes123@        |Este email já está sendo usado       |
     
     Cenário: Validar o cadastro de usuários com dados validos
         Quando o usuário preencher os campos com dados validos
