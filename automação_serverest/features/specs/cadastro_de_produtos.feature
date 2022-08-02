@@ -15,12 +15,12 @@ Funcionalidade: Cadastrar um novo produto
         Quando o usuário preencher os campos "<Nome:>", "<Preço:>", "<Descrição:>" e "<Quantidade:>"
         Então o Sistema Exibe a '<msg:>'
         Exemplos:
-        |Nome:  |Preço: |Descrição:       |Quantidade:     |msg:                                      |
-        |       |50     |DPI ajustavel    |1000            |Nome não pode ficar em branco             |
-        |Mouse  |       |DPI ajustavel    |1000            |Preco é obrigatório                       |
-        |Mouse  |50     |                 |1000            |Descricao não pode ficar em branco        |
-        |Mouse  |50     |DPI ajustavel    |                |Quantidade é obrigatório                  |
-        |Mouse  |50     |DPI ajustavel    |1000            |Já existe produto com esse nome           | 
+        |Nome:  |Preço: |Descrição:       |Quantidade:     |msg:                                 |
+        |       |50     |DPI ajustavel    |1000            |Nome não pode ficar em branco        |
+        |Mouse  |       |DPI ajustavel    |1000            |Preco é obrigatório                  |
+        |Mouse  |50     |                 |1000            |Descricao não pode ficar em branco   |
+        |Mouse  |50     |DPI ajustavel    |                |Quantidade é obrigatório             |
+        |Mouse  |50     |DPI ajustavel    |1000            |Já existe produto com esse nome      | 
         
 
     

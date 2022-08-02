@@ -1,7 +1,7 @@
   Dado('logado como administrador') do
     @login = Login.new 
     @login.load 
-    @login.email.set 'carlosteste@gmail.com' 
+    @login.email.set 'carlosadm@gmail.com' 
     @login.password.set '123' 
     @login.submit.click 
     @cadastroProduto = CadastroProduto.new 
